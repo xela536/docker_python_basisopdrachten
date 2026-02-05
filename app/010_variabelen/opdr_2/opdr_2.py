@@ -4,4 +4,5 @@
 
 # Hier komt je code...
 
-my_tuple = ...
+my_tuple = tuple(("11", "oh een tulpe", "13,5", "8009"))
+print(my_tuple)
