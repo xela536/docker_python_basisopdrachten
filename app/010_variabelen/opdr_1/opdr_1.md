@@ -11,6 +11,7 @@ Maak gebruik van het bestand: opdr_1.py
 Stop onderstaande waarden als `list` in een variabele `my_list`  
 Zorg ervoor dat de `my_list` wordt geprint op het scherm.
 
+my_list
 13  
 "wat een weertje"  
 12.5  
