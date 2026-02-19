@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = ["Tinus gaat op zijn tandem naar de hottentottententoonstelling"]
 
-print()
+print("De letter \"t\" komt " + str(my_list[0].count("t")) + " keer voor in de zin: " + my_list[0])

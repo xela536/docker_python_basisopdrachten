@@ -4,5 +4,5 @@
 
 # Hier komt je code...
 
-my_tuple = tuple(("11", "oh een tulpe", "13,5", "8009"))
+my_tuple = ("11", "oh een tulpe", "13,5", "8009")
 print(my_tuple)

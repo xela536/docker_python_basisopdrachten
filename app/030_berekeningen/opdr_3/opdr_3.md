@@ -28,7 +28,7 @@ Python Operators Precedence Rule – PEMDAS
 x = 1
 ```
 Output
-> De uitkomst is: 3
+>  3De uitkomst is:
 
 ```python
 x = 2
