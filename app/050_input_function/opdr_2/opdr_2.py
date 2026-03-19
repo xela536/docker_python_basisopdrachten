@@ -4,4 +4,11 @@
 
 # Hier komt je code...
 
-gasten = ["Jij", ... ]
+gasten = ["alex", "paul", "kees", "marie", "hilda"]
+
+gasten.remove("marie")
+
+
+gasten.append("george")
+
+print(gasten)  
