@@ -4,9 +4,9 @@
 
 
 def volledige_naam(lijst_met_namen):
-    # hier komt jouw code
-    # Het woordje pass mag je weghalen
-    pass
+    for persoon in lijst_met_namen:
+        delen = [persoon["voornaam"], persoon["tussenvoegsel"], persoon["achternaam"]]
+        print(" ".join(deel for deel in delen if deel))
 
 
 namen = [

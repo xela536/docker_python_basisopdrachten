@@ -4,6 +4,5 @@
 
 # Hier komt je code...
 
-my_list = ["Tinus gaat op zijn tandem naar de hottentottententoonstelling"]
-
-print("De letter \"t\" komt " + str(my_list[0].count("t")) + " keer voor in de zin: " + my_list[0])
+my_string = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
+print(f'De letter "t" komt {my_string.count("t")}x voor in my_string')
